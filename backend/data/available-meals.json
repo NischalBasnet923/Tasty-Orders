@@ -1,0 +1,65 @@
+[
+  {
+    "id": "m1",
+    "name": "Sukuti",
+    "price": "10.99",
+    "description": "Sukuti is a traditional Nepali delicacy made from dried and spiced meat, typically goat or buffalo. It is seasoned with Nepali spices, roasted, and served as a savory snack or in curries. A must-try for lovers of authentic Nepali cuisine.",
+    "image": "images/Sukuti.jpeg"
+  },
+  {
+    "id": "m2",
+    "name": "Veg Momo",
+    "price": "7.99",
+    "description": "Steamed Nepali dumplings filled with a seasoned vegetable mixture, served with a tangy tomato-based dipping sauce.",
+    "image": "images/veg momo.webp"
+  },
+  {
+    "id": "m3",
+    "name": "Sel Roti",
+    "price": "9.99",
+    "description": "A traditional Nepali sweet, deep-fried rice flour bread, crispy on the outside and soft on the inside, perfect for breakfast or snacks.",
+    "image": "images/Sel Roti.jpeg"
+  },
+  {
+    "id": "m4",
+    "name": "Pizza",
+    "price": "8.99",
+    "description": "Classic pizza topped with a rich tomato sauce, mozzarella cheese, and fresh basil on a thin, crispy crust.",
+    "image": "images/pizza.jpeg"
+  },
+  {
+    "id": "m5",
+    "name": "Burger",
+    "price": "12.99",
+    "description": "A juicy beef patty with fresh lettuce, tomatoes, and melted cheese, served on a toasted bun with a side of crispy fries.",
+    "image": "images/burger.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Chowmein",
+    "price": "10.99",
+    "description": "Stir-fried noodles with mixed vegetables, soy sauce, and a hint of sesame, served with your choice of meat or tofu.",
+    "image": "images/Chowmein.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Samosa",
+    "price": "17.99",
+    "description": "Crispy deep-fried pastry filled with a spiced potato and pea mixture, served with a tangy tamarind chutney.",
+    "image": "images/Samosa.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Chicken Biryani",
+    "price": "15.99",
+    "description": "A fragrant rice dish cooked with spiced chicken, herbs, and saffron, served with raita and chutney.",
+    "image": "images/chicken biryani.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Beer",
+    "price": "13.99",
+    "description": "A refreshing chilled beer, perfect to pair with a variety of meals. Light, crisp, and brewed to perfection, it's a great choice to unwind and enjoy the moment.",
+    "image": "images/bear.jpeg"
+  }
+]
